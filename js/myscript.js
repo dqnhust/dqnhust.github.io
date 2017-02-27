@@ -1,3 +1,3 @@
-$.get( "data.data", function( data ) {
+$.getJSON( "data.json", function( data ) {
   alert( data );
 });
