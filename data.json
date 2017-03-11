@@ -43,7 +43,7 @@
 	"description": "Super Tank Game. Shot it. Shot it. Let's Shot it. You are a tank in the Battlefield. Try to shot other tank and block to get more power. Try to win! Good luck! ;)",
 	"buttons": [
 		{
-			"text": "GooglePlay",
+			"text": "Go to GooglePlay",
 			"url": "https://play.google.com/store/apps/details?id=com.vnzit.supertank"
 		}
 	]
