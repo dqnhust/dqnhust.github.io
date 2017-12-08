@@ -1,11 +1,11 @@
 [{
-	"name": "Brick Classic Game",
-	"videoURL": "https://www.youtube.com/embed/CkzyVhx7Zlk?rel=0&amp;showinfo=0",
-	"platform": "Android/iOS",
+	"name": "Pixel Puzzle Brick Game",
+	"videoURL": "https://www.youtube.com/watch?v=i6JVTPRparM",
+	"platform": "Android",
 	"description": "Block Brick Classic is classical game and very interesting with very nice graphics design. It’ll take you back to the childhood are classic game pieces shaped like brick game, geometric shapes composed of four square blocks Easy to play and pleasurable game for all age. From now on, let's enjoy a simple and addictive puzzle game! Once you start, you'll be hooked.It is classical game and very interesting with very nice graphics design. It’ll take you back to the childhood.",
 	"buttons": [{
-		"text": "Download APK",
-		"url": "https://drive.google.com/open?id=0BxAYz9gt0bx1VjRha1FvSXdwckU"
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.minigame.tetrisBlock"
 	}]
 },
 {
