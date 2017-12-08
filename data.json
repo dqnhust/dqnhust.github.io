@@ -1,14 +1,4 @@
 [{
-	"name": "Pixel Puzzle Brick Game",
-	"videoURL": "https://www.youtube.com/watch?v=i6JVTPRparM",
-	"platform": "Android",
-	"description": "Block Brick Classic is classical game and very interesting with very nice graphics design. It’ll take you back to the childhood are classic game pieces shaped like brick game, geometric shapes composed of four square blocks Easy to play and pleasurable game for all age. From now on, let's enjoy a simple and addictive puzzle game! Once you start, you'll be hooked.It is classical game and very interesting with very nice graphics design. It’ll take you back to the childhood.",
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.minigame.tetrisBlock"
-	}]
-},
-{
 	"name": "Aircraft",
 	"videoURL": "https://www.youtube.com/embed/VftNXgYPO-w?rel=0&amp;showinfo=0",
 	"platform": "Android/iOS",
@@ -47,5 +37,15 @@
 			"url": "https://play.google.com/store/apps/details?id=com.vnzit.supertank"
 		}
 	]
+},
+{
+	"name": "Pixel Puzzle Brick Game",
+	"videoURL": "https://www.youtube.com/watch?v=i6JVTPRparM",
+	"platform": "Android",
+	"description": "Pixel Puzzle Brick Game is a funny game and helps you release stress after hours of hard work. Use your finger and swipe to control your block. Try to arrange all block into a line you will destroy that line and get the score. Destroy more line in one time you will get more score. If your board is full, you will lose your game. Let's see your friends' score with Leaderboard. Hope you have a nice day!",
+	"buttons": [{
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.minigame.tetrisBlock"
+	}]
 }
 ]
