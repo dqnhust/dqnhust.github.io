@@ -23,14 +23,19 @@
 	]
 },
 {
-	"name": "TankWar",
+	"name": "TankWar:Who's Smater",
 	"videoURL": "https://www.youtube.com/embed/einbwd09L6M",
 	"platform": "Android/iOS",
-	"description": "Another exciting and thrilling war game by Mini Games Studio. It's war between two teams. Red team and Blue Team. You will be a tank. With your teammate, your target is kill the enemy tank as much as possible to help your team reach victory. Of course, when you kill the enemy tank, you will receive some gold, use it to buy items and upgrade your tank. If you want victory, you must have high IQ. Sure! Let's try it!",
+	"description": "Game for Smart Man. Another exciting and thrilling war game by Mini Games Studio. It's war between two teams. Red team and Blue Team. You will be a tank. With your teammate, your target is kill the enemy tank as much as possible to help your team reach victory. Of course, when you kill the enemy tank, you will receive some gold, use it to buy items and upgrade your tank. If you want victory, you must have high IQ. Sure! Let's try it!",
 	"buttons": [
 		{
 			"text": "Go to GooglePlay",
 			"url": "https://play.google.com/store/apps/details?id=com.minigame.tankwar"
+		}
+		,
+		{
+			"text":"Go to AppleStore",
+			"url":"https://itunes.apple.com/us/app/tankwar-whos-smarter/id1367454083?ls=1&mt=8"
 		}
 	]
 },
