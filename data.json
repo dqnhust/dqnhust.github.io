@@ -58,5 +58,15 @@
 		"text": "Google Play",
 		"url": "https://play.google.com/store/apps/details?id=com.xuxu.catfighter"
 	}]
+},
+{
+	"name": "Block Puzzle Z",
+	"videoURL": "https://www.youtube.com/embed/QzhavxB5rm8",
+	"platform": "Android",
+	"description": "Block Puzzle Z is a classic jewel and wood style block puzzle game.",
+	"buttons": [{
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.vnzit.blockpuzzlez"
+	}]
 }
 ]
