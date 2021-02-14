@@ -78,5 +78,15 @@
 		"text": "Google Play",
 		"url": "https://play.google.com/store/apps/details?id=com.vnzit.puzzletoy"
 	}]
+},
+{
+	"name": "Merge Color",
+	"videoURL": "https://www.youtube.com/embed/PvgwVvLj3m0",
+	"platform": "Android",
+	"description": "Puzzle Toy is an extremely fun jigsaw puzzle.",
+	"buttons": [{
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.pump.perfectpaint&referrer=utm_source%3Ddqnhust_github"
+	}]
 }
 ]
