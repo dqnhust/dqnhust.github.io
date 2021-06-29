@@ -26,13 +26,16 @@
 	  }
 	  return os;
 	}
-  var loc = new URL(document.location)
-  var androidLink = loc.searchParams.get("android");
-  androidLink = androidLink.substring(1, s.length-2)
-  var iosLink = loc.searchParams.get("ios");
-  iosLink = androidLink.substring(1, s.length-2)
-// 	var androidLink = "https://play.google.com/store/apps/details?id=com.xufun.eatthecake";
-// 	var iosLink = "https://play.google.com/store/apps/details?id=com.xufun.eatthecake";
+
+	function GetLink(paramName) {
+        var loc = new URL(document.location)
+        var link = loc.searchParams.get(paramName);
+        link = link.substring(1, link.length-2)		
+        return link;
+	}
+    var loc = new URL(document.location)
+    var androidLink = GetLink("android");
+    var iosLink = GetLink("ios");
 	var os = GetOS();
 	if (os=="Mac OS" || os == "iOS") {
 		window.open(iosLink,"_self");
