@@ -29,21 +29,40 @@
             return os;
         }
 
-        function GetLink(paramName) {
-            var loc = new URL(document.location)
-            var link = loc.searchParams.get(paramName);
-            link = link.substring(1, link.length - 1);
-            return link;
+        function GetLinkByRegex(regex) {
+            // const regex = /\?android=%22(.*?)%22&ios=/gm;
+            const loc = new URL(document.location);
+            const input = loc.search;
+            let m;
+            var lastValue = "";
+            while ((m = regex.exec(input)) !== null) {
+                // This is necessary to avoid infinite loops with zero-width matches
+                if (m.index === regex.lastIndex) {
+                    regex.lastIndex++;
+                }
+                
+                // The result can be accessed through the `m`-variable.
+                m.forEach((match, groupIndex) => {
+                    lastValue = match;
+                });
+            }
+            return lastValue;
         }
-        var loc = new URL(document.location)
-        var androidLink = GetLink("android");
-        var iosLink = GetLink("ios");
+
+        function GetLinkAndroid() {
+            return GetLinkByRegex(/\?android=%22(.*?)%22&ios=/gm);
+        }
+        function GetLinkiOS() {
+            return GetLinkByRegex(/%22&ios=%22(.*?)%22/gm);
+        }
+        
         var os = GetOS();
         if (os == "Mac OS" || os == "iOS") {
-            window.open(iosLink, "_self");
+            window.open(GetLinkiOS(), "_self");
         } else {
-            window.open(androidLink, "_self");
+            window.open(GetLinkAndroid(), "_self");
         }
+
     </script>
 </body>
 
