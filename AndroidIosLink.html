@@ -48,6 +48,15 @@
             }
             return lastValue;
         }
+        function GetParam(paramName) {
+            var loc = new URL(document.location)
+            var link = loc.searchParams.get(paramName);
+            link = link.substring(1, link.length - 1);
+            return link;
+        }
+        function GetTitle() {
+            return GetParam("title");
+        }
 
         function GetLinkAndroid() {
             return GetLinkByRegex(/\?android=%22(.*?)%22&ios=/gm);
@@ -55,7 +64,7 @@
         function GetLinkiOS() {
             return GetLinkByRegex(/%22&ios=%22(.*?)%22/gm);
         }
-        
+        document.title= GetTitle();
         var os = GetOS();
         if (os == "Mac OS" || os == "iOS") {
             window.open(GetLinkiOS(), "_self");
