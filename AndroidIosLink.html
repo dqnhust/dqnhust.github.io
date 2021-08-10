@@ -64,7 +64,7 @@
         function GetLinkiOS() {
             return GetLinkByRegex(/%22&ios=%22(.*?)%22/gm);
         }
-        document.title= GetTitle();
+//         document.title= GetTitle();
         var os = GetOS();
         if (os == "Mac OS" || os == "iOS") {
             window.open(GetLinkiOS(), "_self");
