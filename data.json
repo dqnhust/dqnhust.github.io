@@ -93,7 +93,7 @@
 {
 	"name": "Connect Animal Relax",
 	"videoURL": "https://www.youtube.com/embed/Vxl0URX3CnM",
-	"platform": "Android",
+	"platform": "Android/iOS",
 	"description": "Find all matching pairs. Good for memory training and relax in free time.",
 	
 	"buttons": [{
@@ -105,6 +105,23 @@
 	}, {
 		"text": "Fanpage",
 		"url": "https://www.facebook.com/vnzitOnet"
+	}]
+},
+{
+	"name": "Tile Puzzle - Match Animal 3D",
+	"videoURL": "https://www.youtube.com/embed/o6LXYN9TThE",
+	"platform": "Android/iOS",
+	"description": "Play classic puzzle & triple matching games! Get your virtual pets for FREE!🐶🐰",
+	
+	"buttons": [{
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.TumbGames.MatchAnimal3D&referrer=utm_source%3Ddqnhust_github"
+	},{
+		"text": "Apple Store",
+		"url": "https://apps.apple.com/app/apple-store/id1582113871?pt=123353397&ct=dqnhust_github&mt=8"
+	}, {
+		"text": "Fanpage",
+		"url": "https://www.facebook.com/tumbgames"
 	}]
 }
 ]
