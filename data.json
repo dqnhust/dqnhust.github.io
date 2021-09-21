@@ -137,5 +137,22 @@
 		"text": "Fanpage",
 		"url": "https://www.facebook.com/tumbgames"
 	}]
+},
+{
+	"name": "Kitty Cat: Hungry Cat Feeding",
+	"videoURL": "https://www.youtube.com/embed/KfNRx8iWUf4",
+	"platform": "Android/iOS",
+	"description": "Start playing Kitty Cat: Hungry Cat Feeding today - a cute cat puzzle game and great for brain training.",
+	
+	"buttons": [{
+		"text": "Google Play",
+		"url": "https://play.google.com/store/apps/details?id=com.tumbgames.cutekitty&referrer=utm_source%3Ddqnhust_github"
+	},{
+		"text": "iOS",
+		"url": "https://apps.apple.com/us/app/kitty-cat-hungry-cat-feeding/id1586581968"
+	}, {
+		"text": "Fanpage",
+		"url": "https://www.facebook.com/tumbgames"
+	}]
 }
 ]
