@@ -1,178 +1,192 @@
 [{
-	"name": "Aircraft",
-	"videoURL": "https://www.youtube.com/embed/VftNXgYPO-w?rel=0&amp;showinfo=0",
-	"platform": "Android/iOS",
-	"description": "The Game has 9 Level, 1 Bot, 1 special Level. Let's Play Game!",
-	"buttons": [
-		{
-			"text": "Download APK",
-			"url": "https://drive.google.com/open?id=0BxAYz9gt0bx1Z2o4SlA0UUJsMDQ"
-		}
-	]
-},
-{
-	"name": "Geometry Dash",
-	"videoURL": "https://www.youtube.com/embed/bP5tSpBwZhY?rel=0&amp;showinfo=0",
-	"platform": "Android/iOS",
-	"description": "Jump and fly your way through danger in this rhythm-based action platformer!Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.Simple one touch game play that will keep you entertained for hours!",
-	"buttons": [
-		{
-			"text": "Download APK",
-			"url": "https://drive.google.com/open?id=0BxAYz9gt0bx1anIzNFVEaTQ1cTA"
-		}
-	]
-},
-{
-	"name": "TankWar:Who's Smater",
-	"videoURL": "https://www.youtube.com/embed/S5haIiMzC6g",
-	"platform": "Android/iOS",
-	"description": "Game for Smart Man. Another exciting and thrilling war game by Mini Games Studio. It's war between two teams. Red team and Blue Team. You will be a tank. With your teammate, your target is kill the enemy tank as much as possible to help your team reach victory. Of course, when you kill the enemy tank, you will receive some gold, use it to buy items and upgrade your tank. If you want victory, you must have high IQ. Sure! Let's try it!",
-	"buttons": [
-		{
-			"text": "Go to GooglePlay",
-			"url": "https://play.google.com/store/apps/details?id=com.minigame.tankwar"
-		}
-		,
-		{
-			"text":"Go to AppleStore",
-			"url":"https://itunes.apple.com/us/app/tankwar-whos-smarter/id1367454083?ls=1&mt=8"
-		}
-	]
-},
-{
-	"name": "Pixel Puzzle Brick Game",
-	"videoURL": "https://www.youtube.com/embed/i6JVTPRparM",
-	"platform": "Android",
-	"description": "Pixel Puzzle Brick Game is a funny game and helps you release stress after hours of hard work. Use your finger and swipe to control your block. Try to arrange all block into a line you will destroy that line and get the score. Destroy more line in one time you will get more score. If your board is full, you will lose your game. Let's see your friends' score with Leaderboard. Hope you have a nice day!",
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.minigame.tetrisBlock"
-	}]
-},
-{
-	"name": "CatFighter",
-	"videoURL": "https://www.youtube.com/embed/t5TtLv__DF8",
-	"platform": "Android",
-	"description": "Cat Fighter is made for you - true fans of classic arcade shooting games.",
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.xuxu.catfighter"
-	}]
-},
-{
-	"name": "Block Puzzle Z",
-	"videoURL": "https://www.youtube.com/embed/QzhavxB5rm8",
-	"platform": "Android",
-	"description": "Block Puzzle Z is a classic jewel and wood style block puzzle game.",
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.vnzit.blockpuzzlez"
-	}]
-},
-{
-	"name": "Merge Color",
-	"videoURL": "https://www.youtube.com/embed/PvgwVvLj3m0",
-	"platform": "Android",
-	"description": "Merge Color is a simple puzzle game, that makes you HACK your BRAIN and increase your IQ.",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.pump.perfectpaint&referrer=utm_source%3Ddqnhust_github"
-	}]
-},
-{
-	"name": "Puzzle Toy",
-	"videoURL": "https://www.youtube.com/embed/uN-6MysDX-E",
-	"platform": "Android",
-	"description": "Puzzle Toy is an extremely fun jigsaw puzzle.",
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.vnzit.puzzletoy"
-	}]
-},
-{
-	"name": "Connect Animal Relax",
-	"videoURL": "https://www.youtube.com/embed/Vxl0URX3CnM",
-	"platform": "Android/iOS",
-	"description": "Find all matching pairs. Good for memory training and relax in free time.",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.pump.connectanimal3d&referrer=utm_source%3Ddqnhust_github"
-	},{
-		"text": "Apple Store",
-		"url": "https://apps.apple.com/app/apple-store/id1579875651?pt=123353397&ct=dqnhust_github&mt=8"
-	}, {
-		"text": "Fanpage",
-		"url": "https://www.facebook.com/vnzitOnet"
-	}]
-},
-{
-	"name": "Tile Puzzle - Match Animal 3D",
-	"videoURL": "https://www.youtube.com/embed/o6LXYN9TThE",
-	"platform": "Android/iOS",
-	"description": "Play classic puzzle & triple matching games! Get your virtual pets for FREE!🐶🐰",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.TumbGames.MatchAnimal3D&referrer=utm_source%3Ddqnhust_github"
-	},{
-		"text": "Apple Store",
-		"url": "https://apps.apple.com/app/apple-store/id1582113871?pt=123353397&ct=dqnhust_github&mt=8"
-	}, {
-		"text": "Fanpage",
-		"url": "https://www.facebook.com/tumbgames"
-	}]
-},
-{
-	"name": "Water Sort Puzzle: Liquid Sort",
-	"videoURL": "https://www.youtube.com/embed/qTFczR0gmtk",
-	"platform": "Android",
-	"description": "Water Sort Puzzle: Liquid Sort is a fun and challenging puzzle game. Your mission is to sort the colored water in the bottles till all colors are in the same bottle. A relaxing and challenging game to train your brain!",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.TumbGames.WaterSortPuzzle&referrer=utm_source%3Ddqnhust_github"
-	}, {
-		"text": "Fanpage",
-		"url": "https://www.facebook.com/tumbgames"
-	}]
-},
-{
-	"name": "Kitty Cat: Hungry Cat Feeding",
-	"videoURL": "https://www.youtube.com/embed/KfNRx8iWUf4",
-	"platform": "Android/iOS",
-	"description": "Start playing Kitty Cat: Hungry Cat Feeding today - a cute cat puzzle game and great for brain training.",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.tumbgames.cutekitty&referrer=utm_source%3Ddqnhust_github"
-	},{
-		"text": "iOS",
-		"url": "https://apps.apple.com/us/app/kitty-cat-hungry-cat-feeding/id1586581968"
-	}, {
-		"text": "Fanpage",
-		"url": "https://www.facebook.com/tumbgames"
-	}]
-},{
-	"name": "Paper Fold",
-	"videoURL": "https://www.youtube.com/embed/mpvWpU6goUk",
-	"platform": "Android",
-	"description": "A simple paper fold simulation. It's super fun and relaxing.",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.TumbGames.PaperFold&referrer=utm_source%3Ddqnhust_github"
-	}]
-},{
-	"name": "King.io: Conquer The World",
-	"videoURL": "https://www.youtube.com/embed/EZFqKPk0C4E",
-	"platform": "Android",
-	"description": "King.io! Make your land largest! Kill your enemies and become the best king!",
-	
-	"buttons": [{
-		"text": "Google Play",
-		"url": "https://play.google.com/store/apps/details?id=com.TumbGames.King.IO&referrer=utm_source%3Ddqnhust_github"
-	}]
-}
+        "name": "Aircraft",
+        "videoURL": "https://www.youtube.com/embed/VftNXgYPO-w?rel=0&amp;showinfo=0",
+        "platform": "Android/iOS",
+        "description": "The Game has 9 Level, 1 Bot, 1 special Level. Let's Play Game!",
+        "buttons": [{
+            "text": "Download APK",
+            "url": "https://drive.google.com/open?id=0BxAYz9gt0bx1Z2o4SlA0UUJsMDQ"
+        }]
+    },
+    {
+        "name": "Geometry Dash",
+        "videoURL": "https://www.youtube.com/embed/bP5tSpBwZhY?rel=0&amp;showinfo=0",
+        "platform": "Android/iOS",
+        "description": "Jump and fly your way through danger in this rhythm-based action platformer!Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.Simple one touch game play that will keep you entertained for hours!",
+        "buttons": [{
+            "text": "Download APK",
+            "url": "https://drive.google.com/open?id=0BxAYz9gt0bx1anIzNFVEaTQ1cTA"
+        }]
+    },
+    {
+        "name": "TankWar:Who's Smater",
+        "videoURL": "https://www.youtube.com/embed/S5haIiMzC6g",
+        "platform": "Android/iOS",
+        "description": "Game for Smart Man. Another exciting and thrilling war game by Mini Games Studio. It's war between two teams. Red team and Blue Team. You will be a tank. With your teammate, your target is kill the enemy tank as much as possible to help your team reach victory. Of course, when you kill the enemy tank, you will receive some gold, use it to buy items and upgrade your tank. If you want victory, you must have high IQ. Sure! Let's try it!",
+        "buttons": [{
+                "text": "Go to GooglePlay",
+                "url": "https://play.google.com/store/apps/details?id=com.minigame.tankwar"
+            },
+            {
+                "text": "Go to AppleStore",
+                "url": "https://itunes.apple.com/us/app/tankwar-whos-smarter/id1367454083?ls=1&mt=8"
+            }
+        ]
+    },
+    {
+        "name": "Pixel Puzzle Brick Game",
+        "videoURL": "https://www.youtube.com/embed/i6JVTPRparM",
+        "platform": "Android",
+        "description": "Pixel Puzzle Brick Game is a funny game and helps you release stress after hours of hard work. Use your finger and swipe to control your block. Try to arrange all block into a line you will destroy that line and get the score. Destroy more line in one time you will get more score. If your board is full, you will lose your game. Let's see your friends' score with Leaderboard. Hope you have a nice day!",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.minigame.tetrisBlock"
+        }]
+    },
+    {
+        "name": "CatFighter",
+        "videoURL": "https://www.youtube.com/embed/t5TtLv__DF8",
+        "platform": "Android",
+        "description": "Cat Fighter is made for you - true fans of classic arcade shooting games.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.xuxu.catfighter"
+        }]
+    },
+    {
+        "name": "Block Puzzle Z",
+        "videoURL": "https://www.youtube.com/embed/QzhavxB5rm8",
+        "platform": "Android",
+        "description": "Block Puzzle Z is a classic jewel and wood style block puzzle game.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.vnzit.blockpuzzlez"
+        }]
+    },
+    {
+        "name": "Merge Color",
+        "videoURL": "https://www.youtube.com/embed/PvgwVvLj3m0",
+        "platform": "Android",
+        "description": "Merge Color is a simple puzzle game, that makes you HACK your BRAIN and increase your IQ.",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.pump.perfectpaint&referrer=utm_source%3Ddqnhust_github"
+        }]
+    },
+    {
+        "name": "Puzzle Toy",
+        "videoURL": "https://www.youtube.com/embed/uN-6MysDX-E",
+        "platform": "Android",
+        "description": "Puzzle Toy is an extremely fun jigsaw puzzle.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.vnzit.puzzletoy"
+        }]
+    },
+    {
+        "name": "Connect Animal Relax",
+        "videoURL": "https://www.youtube.com/embed/Vxl0URX3CnM",
+        "platform": "Android/iOS",
+        "description": "Find all matching pairs. Good for memory training and relax in free time.",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.pump.connectanimal3d&referrer=utm_source%3Ddqnhust_github"
+        }, {
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/app/apple-store/id1579875651?pt=123353397&ct=dqnhust_github&mt=8"
+        }, {
+            "text": "Fanpage",
+            "url": "https://www.facebook.com/vnzitOnet"
+        }]
+    },
+    {
+        "name": "Tile Puzzle - Match Animal 3D",
+        "videoURL": "https://www.youtube.com/embed/o6LXYN9TThE",
+        "platform": "Android/iOS",
+        "description": "Play classic puzzle & triple matching games! Get your virtual pets for FREE!🐶🐰",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.MatchAnimal3D&referrer=utm_source%3Ddqnhust_github"
+        }, {
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/app/apple-store/id1582113871?pt=123353397&ct=dqnhust_github&mt=8"
+        }, {
+            "text": "Fanpage",
+            "url": "https://www.facebook.com/tumbgames"
+        }]
+    },
+    {
+        "name": "Water Sort Puzzle: Liquid Sort",
+        "videoURL": "https://www.youtube.com/embed/qTFczR0gmtk",
+        "platform": "Android",
+        "description": "Water Sort Puzzle: Liquid Sort is a fun and challenging puzzle game. Your mission is to sort the colored water in the bottles till all colors are in the same bottle. A relaxing and challenging game to train your brain!",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.WaterSortPuzzle&referrer=utm_source%3Ddqnhust_github"
+        }, {
+            "text": "Fanpage",
+            "url": "https://www.facebook.com/tumbgames"
+        }]
+    },
+    {
+        "name": "Kitty Cat: Hungry Cat Feeding",
+        "videoURL": "https://www.youtube.com/embed/KfNRx8iWUf4",
+        "platform": "Android/iOS",
+        "description": "Start playing Kitty Cat: Hungry Cat Feeding today - a cute cat puzzle game and great for brain training.",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.cutekitty&referrer=utm_source%3Ddqnhust_github"
+        }, {
+            "text": "iOS",
+            "url": "https://apps.apple.com/us/app/kitty-cat-hungry-cat-feeding/id1586581968"
+        }, {
+            "text": "Fanpage",
+            "url": "https://www.facebook.com/tumbgames"
+        }]
+    }, {
+        "name": "Paper Fold",
+        "videoURL": "https://www.youtube.com/embed/mpvWpU6goUk",
+        "platform": "Android",
+        "description": "A simple paper fold simulation. It's super fun and relaxing.",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.PaperFold&referrer=utm_source%3Ddqnhust_github"
+        }]
+    }, {
+        "name": "King.io: Conquer The World",
+        "videoURL": "https://www.youtube.com/embed/EZFqKPk0C4E",
+        "platform": "Android",
+        "description": "King.io! Make your land largest! Kill your enemies and become the best king!",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.King.IO&referrer=utm_source%3Ddqnhust_github"
+        }]
+    }, {
+        "name": "Ball Sort - Color Puzzle",
+        "videoURL": "https://www.youtube.com/embed/HuRM-k9W6n8",
+        "platform": "Android",
+        "description": "An addictive and fun classic color sorting game. Sort it to train your brain!",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.BallSortPuzzle&referrer=utm_source%3Ddqnhust_github"
+        }]
+    }, {
+        "name": "Liquid Sort Puzzle: Color Sort",
+        "videoURL": "https://www.youtube.com/embed/pk0NK_AkPIU",
+        "platform": "Android",
+        "description": "An addictive and fun classic color sorting game .Sort it to train your brain!",
+
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.TumbGames.LiquidSortPuzzle&referrer=utm_source%3Ddqnhust_github"
+        }]
+    }
 ]
