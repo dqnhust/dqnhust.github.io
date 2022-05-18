@@ -188,5 +188,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.TumbGames.LiquidSortPuzzle&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Bubble Shooter: Fox Egg Shoot",
+        "videoURL": "https://www.youtube.com/embed/NUZgHlnE9G0",
+        "platform": "Android",
+        "description": "Once upon a time, Ariel Fox and Panda were good friends. One day, when Ariel and Panda were on their discovery journey, they neglected the way to come back home. As a result, they got lost on a tropical island. When two ones were leaning back to back, in the twinkling of an eye, Panda was kidnaped by a witch who lives for years on the island. Can’t come back without his friend, Ariel decided to rescue Panda. With your support by passing challenges in the game, Ariel will meet soon his friend. Let’s give Ariel a hand and join in the rescue now!",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=puzzle.bubble.shooter.fox.pop.shot&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
