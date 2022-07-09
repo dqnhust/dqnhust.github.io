@@ -197,5 +197,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=puzzle.bubble.shooter.fox.pop.shot&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Water Sort Puzzle: Color Game",
+        "videoURL": "https://www.youtube.com/embed/bkpCAKJ-O1w",
+        "platform": "Android",
+        "description": "Water Sort Puzzle: Color Game is a super fun sort puzzle game.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.water.sort.puzzle.color&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
