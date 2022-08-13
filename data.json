@@ -56,11 +56,14 @@
     {
         "name": "Block Puzzle Z",
         "videoURL": "https://www.youtube.com/embed/QzhavxB5rm8",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "Block Puzzle Z is a classic jewel and wood style block puzzle game.",
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.vnzit.blockpuzzlez"
+        },{
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/block-puzzle-z/id1639679346"
         }]
     },
     {
@@ -77,11 +80,14 @@
     {
         "name": "Puzzle Toy",
         "videoURL": "https://www.youtube.com/embed/uN-6MysDX-E",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "Puzzle Toy is an extremely fun jigsaw puzzle.",
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.vnzit.puzzletoy"
+        }, {
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/puzzle-toy/id1639695249"
         }]
     },
     {
@@ -151,22 +157,28 @@
     }, {
         "name": "Paper Fold",
         "videoURL": "https://www.youtube.com/embed/mpvWpU6goUk",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "A simple paper fold simulation. It's super fun and relaxing.",
 
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.TumbGames.PaperFold&referrer=utm_source%3Ddqnhust_github"
+        },{
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/paper-fold-paper-puzzle-3d/id1639255997"
         }]
     }, {
         "name": "King.io: Conquer The World",
         "videoURL": "https://www.youtube.com/embed/EZFqKPk0C4E",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "King.io! Make your land largest! Kill your enemies and become the best king!",
 
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.TumbGames.King.IO&referrer=utm_source%3Ddqnhust_github"
+        },{
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/king-io/id1639695561"
         }]
     }, {
         "name": "Ball Sort - Color Puzzle",
@@ -191,20 +203,26 @@
     }, {
         "name": "Bubble Shooter: Fox Egg Shoot",
         "videoURL": "https://www.youtube.com/embed/NUZgHlnE9G0",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "Once upon a time, Ariel Fox and Panda were good friends. One day, when Ariel and Panda were on their discovery journey, they neglected the way to come back home. As a result, they got lost on a tropical island. When two ones were leaning back to back, in the twinkling of an eye, Panda was kidnaped by a witch who lives for years on the island. Can’t come back without his friend, Ariel decided to rescue Panda. With your support by passing challenges in the game, Ariel will meet soon his friend. Let’s give Ariel a hand and join in the rescue now!",
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=puzzle.bubble.shooter.fox.pop.shot&referrer=utm_source%3Ddqnhust_github"
+        }, {
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/bubble-shooter-rescue-panda/id1638744112"
         }]
     }, {
         "name": "Water Sort Puzzle: Color Game",
         "videoURL": "https://www.youtube.com/embed/bkpCAKJ-O1w",
-        "platform": "Android",
+        "platform": "Android, iOS",
         "description": "Water Sort Puzzle: Color Game is a super fun sort puzzle game.",
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.water.sort.puzzle.color&referrer=utm_source%3Ddqnhust_github"
+        },{
+            "text": "Apple Store",
+            "url": "https://apps.apple.com/us/app/water-sort-puzzle-pour-color/id1639031858"
         }]
     }
 ]
