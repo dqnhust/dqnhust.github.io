@@ -61,7 +61,7 @@
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.vnzit.blockpuzzlez"
-        },{
+        }, {
             "text": "Apple Store",
             "url": "https://apps.apple.com/us/app/block-puzzle-z/id1639679346"
         }]
@@ -163,7 +163,7 @@
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.TumbGames.PaperFold&referrer=utm_source%3Ddqnhust_github"
-        },{
+        }, {
             "text": "Apple Store",
             "url": "https://apps.apple.com/us/app/paper-fold-paper-puzzle-3d/id1639255997"
         }]
@@ -176,7 +176,7 @@
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.TumbGames.King.IO&referrer=utm_source%3Ddqnhust_github"
-        },{
+        }, {
             "text": "Apple Store",
             "url": "https://apps.apple.com/us/app/king-io/id1639695561"
         }]
@@ -220,7 +220,7 @@
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.water.sort.puzzle.color&referrer=utm_source%3Ddqnhust_github"
-        },{
+        }, {
             "text": "Apple Store",
             "url": "https://apps.apple.com/us/app/water-sort-puzzle-pour-color/id1639031858"
         }]
@@ -232,6 +232,15 @@
         "buttons": [{
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.drawlinemaster&referrer=utm_source%3Ddqnhust_github"
+        }]
+    }, {
+        "name": "Tile Master - Master Connect",
+        "videoURL": "https://www.youtube.com/embed/Tqn1Bz5lcI4",
+        "platform": "Android",
+        "description": "Connect tiles with a hundred number of pictures in pairs within the limited time.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.tilesimple&referrer=utm_source%3Ddqnhust_github"
         }]
     }
 ]
