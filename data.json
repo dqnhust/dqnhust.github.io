@@ -251,5 +251,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.brainyblocks&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Tile Matchup",
+        "videoURL": "https://www.youtube.com/embed/CiUXlsppung",
+        "platform": "Android",
+        "description": "Tile Matchup is a thrilling puzzle game that will test your matching skills and strategic thinking.",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.tilematchup&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
