@@ -269,5 +269,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.matchpuzzle&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Fall Down - Jewel Slider",
+        "videoURL": "https://www.youtube.com/embed/Dn8Ye4qtyV0",
+        "platform": "Android",
+        "description": "Are you ready for a thrilling new block puzzle challenge? Fall Down - Jewel Slider is here to test your strategic skills and keep you entertained for hours!",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.slidepuzzledropdown&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
