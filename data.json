@@ -305,5 +305,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=com.tumbgames.find.sort.cat.dog.bird&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Bubble Shooter: Puppy Rescue",
+        "videoURL": "https://www.youtube.com/embed/6Vg6mDDohic",
+        "platform": "Android",
+        "description": "In Bubble Shooter: Puppy Rescue players embark on an adorable adventure alongside a farmer and playful puppies!",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=game.casual.bubble.shooter.pop.puppy.rescue.fun.farm&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
