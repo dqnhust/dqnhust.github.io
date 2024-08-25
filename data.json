@@ -314,5 +314,14 @@
             "text": "Google Play",
             "url": "https://play.google.com/store/apps/details?id=game.casual.bubble.shooter.pop.puppy.rescue.fun.farm&referrer=utm_source%3Ddqnhust_github"
         }]
+    }, {
+        "name": "Hidden Objects: Endless Fun",
+        "videoURL": "https://www.youtube.com/embed/heXoCtDk7HE?si=39QOBHR1JUZ6SYnn",
+        "platform": "Android",
+        "description": "Find hidden objects in cute, fun, and realistic 3D cartoon scenes!",
+        "buttons": [{
+            "text": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.tumbgames.hiddenobjects&referrer=utm_source%3Ddqnhust_github"
+        }]
     }
 ]
