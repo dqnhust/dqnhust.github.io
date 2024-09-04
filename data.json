@@ -403,7 +403,7 @@
         "buttons": [
             {
                 "text": "Google Play",
-                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.hiddenobjects&referrer=utm_source%3Ddqnhust_github"
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.hiddenobjects&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
     }
