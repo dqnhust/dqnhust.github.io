@@ -406,5 +406,17 @@
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.hiddenobjects&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
+    },
+    {
+        "name": "Color Shift: Merge Puzzle",
+        "videoURL": "https://www.youtube.com/embed/zptgtOZuZuA?si=TqKEWOuXHJM59DQJ",
+        "platform": "Android",
+        "description": "🎨 Get ready for an exciting puzzle adventure where colors come to life! 🎨",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.colorshift.mergepuzzle&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
     }
 ]
