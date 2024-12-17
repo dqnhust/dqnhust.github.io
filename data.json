@@ -174,7 +174,7 @@
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.cutekitty&referrer=utm_source%3Ddqnhust_github"
             },
             {
-                "text": "iOS",
+                "text": "Apple Store",
                 "url": "https://apps.apple.com/us/app/kitty-cat-hungry-cat-feeding/id1586581968"
             },
             {
@@ -346,7 +346,7 @@
     {
         "name": "Find Differences: Spot the fun",
         "videoURL": "https://www.youtube.com/embed/53IWCm9CxdM",
-        "platform": "Android",
+        "platform": "Android/iOS",
         "description": "Find the differences between two beautiful images in this brain-boosting game!",
         "buttons": [
             {
@@ -402,12 +402,16 @@
     {
         "name": "Hidden Objects: Endless Fun",
         "videoURL": "https://www.youtube.com/embed/heXoCtDk7HE?si=39QOBHR1JUZ6SYnn",
-        "platform": "Android",
+        "platform": "Android/iOS",
         "description": "Find hidden objects in cute, fun, and realistic 3D cartoon scenes!",
         "buttons": [
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.hiddenobjects&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/hidden-objects-cute-world/id6739426300"
             }
         ]
     },
