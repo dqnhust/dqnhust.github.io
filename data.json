@@ -438,5 +438,17 @@
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.nutsbolts&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
+    },
+    {
+        "name": "Screw Puzzle: Nut & Bolt Sort",
+        "videoURL": "https://www.youtube.com/embed/2mXej-QxUt4",
+        "platform": "Android",
+        "description": "Relax, Sort, and Enjoy – A Satisfying Organizing Game Just for You!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.goodsort&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
     }
 ]
