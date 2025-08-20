@@ -316,6 +316,10 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.tilematchup&referrer=utm_source%3Ddqnhust_github"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/connect-puzzle-ocean-tile/id6749949500"
             }
         ]
     },
@@ -328,6 +332,10 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.matchpuzzle&referrer=utm_source%3Ddqnhust_github"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/tile-triple-match-animal-3d/id1582113871"
             }
         ]
     },
@@ -340,6 +348,10 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.slidepuzzledropdown&referrer=utm_source%3Ddqnhust_github"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/slide-puzzle-fall-down/id6751017739"
             }
         ]
     },
@@ -368,6 +380,10 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.blockescape&referrer=utm_source%3Ddqnhust_github"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/bone-slide-puppy-puzzle/id6751014177"
             }
         ]
     },
@@ -396,6 +412,10 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=game.casual.bubble.shooter.pop.puppy.rescue.fun.farm&referrer=utm_source%3Ddqnhust_github"
+            },
+            {
+                "text": "Apple Store",
+                "url": "https://apps.apple.com/us/app/pup-pop-adventure/id6751020302"
             }
         ]
     },
@@ -424,30 +444,42 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.colorshift.mergepuzzle&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            },
+            {
+                "text": "AppStore",
+                "url": "https://apps.apple.com/us/app/colorshift-mergepuzzle/id6751021349"
             }
         ]
     },
     {
         "name": "Screw Puzzle: Nut & Bolt Sort",
         "videoURL": "https://www.youtube.com/embed/0AdZ8rHOwks",
-        "platform": "Android",
+        "platform": "Android/iOS",
         "description": "Master the tricky nut & bolt puzzle! Strategic unscrewing fun awaits you!",
         "buttons": [
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.nutsbolts&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            },
+            {
+                "text": "AppStore",
+                "url": "https://apps.apple.com/us/app/twist-solve-screw-logic/id6749938341"
             }
         ]
     },
     {
         "name": "Goods Sort: Endless Fun",
         "videoURL": "https://www.youtube.com/embed/2mXej-QxUt4",
-        "platform": "Android",
+        "platform": "Android/iOS",
         "description": "Relax, Sort, and Enjoy – A Satisfying Organizing Game Just for You!",
         "buttons": [
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.goodsort&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            },
+            {
+                "text": "AppStore",
+                "url": "https://apps.apple.com/us/app/happy-sort-goods-sort-puzzle/id6751015983"
             }
         ]
     },
