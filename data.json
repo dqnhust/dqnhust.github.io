@@ -499,4 +499,17 @@
             }
         ]
     }
+    ,
+    {
+        "name": "Car Jam Puzzle",
+        "videoURL": "",
+        "platform": "Android",
+        "description": "Clear the traffic jam! Move cars, solve puzzles, and escape the parking chaos!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.carjampuzzle&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
+    }
 ]
