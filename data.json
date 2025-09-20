@@ -499,8 +499,7 @@
             }
         ]
     }
-    ,
-    {
+    ,{
         "name": "Car Jam Puzzle",
         "videoURL": "https://www.youtube.com/embed/-sCz4spAwN4",
         "platform": "Android",
@@ -509,6 +508,17 @@
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.carjampuzzle&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
+    },{
+        "name": "Fruit Drop Master",
+        "videoURL": "https://www.youtube.com/embed/A8g7BH333iU",
+        "platform": "Android",
+        "description": "Fruit Drop Master: The Ultimate Fruit Merge & Build Adventure!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.fruitmerge&&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
     }
