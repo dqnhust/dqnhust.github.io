@@ -521,5 +521,16 @@
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.fruitmerge&&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
+    },{
+        "name": "Block Slide: Color Master",
+        "videoURL": "https://www.youtube.com/embed/T3YXrOjfjo4",
+        "platform": "Android",
+        "description": "Fun slide puzzle with cheerful vibes! Unique rewards & vibrant graphics!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.blockslide&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
     }
 ]
