@@ -540,5 +540,27 @@
                 "url": "https://apps.apple.com/us/app/blockslidecolormaster/id6755768648"
             }
         ]
+    },{
+        "name": "Girl Escape: Puzzle Adventure",
+        "videoURL": "https://www.youtube.com/embed/ITFk3mdz_n0",
+        "platform": "Android",
+        "description": "Solve rescue puzzles, defeat dragons and save the princess in EPIC adventure!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.princessrescue&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
+    },{
+        "name": "Bus Escape: Parking Puzzle",
+        "videoURL": "https://www.youtube.com/embed/ITFk3mdz_n0",
+        "platform": "Android",
+        "description": "Can You Untangle the Chaos?",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.busjam&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
     }
 ]
