@@ -553,13 +553,24 @@
         ]
     },{
         "name": "Bus Escape: Parking Puzzle",
-        "videoURL": "https://www.youtube.com/embed/ITFk3mdz_n0",
+        "imageURL": "https://play-lh.googleusercontent.com/fealZFhswOQeUVmjPbk45pPwY7kxHQOs6BKD-DjsJYBaTLCkI13xCDjAgoztweqFvhxef9174Yw1rp730Ot_PA=w2560-h1440-rw",
         "platform": "Android",
         "description": "Can You Untangle the Chaos?",
         "buttons": [
             {
                 "text": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.tumbgames.busjam&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
+            }
+        ]
+    },{
+        "name": "Block Worm: Color Jam",
+        "videoURL": "https://www.youtube.com/embed/pz5i5RlnBYg",
+        "platform": "Android",
+        "description": "Block Worm: Color Jam - Slide, Match & Escape!",
+        "buttons": [
+            {
+                "text": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.tumbgames.blockling.jam&utm_source=dqnhust_source&utm_medium=dqnhust_medium&utm_campaign=dqnhustcampaigntr&utm_id=dqnhustid&utm_content=dqnhustcontent"
             }
         ]
     }
