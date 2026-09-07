@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Redirect stubs and game assets - nothing to index
+Disallow: /AndroidIosLink.html
+Disallow: /EatTheCakeLink.html
+Disallow: /TankWarLink.html
+Disallow: /TowerDefenseLink.html
+Disallow: /ReferGame.html
+Disallow: /fdg/
+
+Sitemap: https://dqnhust.github.io/sitemap.xml

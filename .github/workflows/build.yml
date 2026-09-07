@@ -1,0 +1,31 @@
+name: Build static pages
+
+# data.json is the source of truth; regenerate the SEO pages whenever it moves.
+on:
+  push:
+    branches: [master]
+    paths:
+      - data.json
+      - build.js
+      - .github/workflows/build.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node build.js
+      - name: Commit generated pages
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html games sitemap.xml robots.txt
+          git diff --staged --quiet || git commit -m "chore: rebuild static pages from data.json"
+          git push
