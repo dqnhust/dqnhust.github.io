@@ -159,6 +159,19 @@ function nav(rel) {
     ].join("\n");
 }
 
+// The site is no longer maintained; point every visitor to tumbgames.com.
+function deprecationBanner() {
+    return [
+        '<div class="alert alert-warning" role="alert" style="margin:20px 0;padding:24px;border:2px solid #f0ad4e;text-align:center;">',
+        '<h2 style="margin-top:0;font-weight:bold;">&#9888; This site is outdated</h2>',
+        '<p style="font-size:18px;">This page is no longer maintained and will not receive new updates. ' +
+            'For the latest games and news, please visit <strong>' + esc(SITE_NAME) + '</strong> at tumbgames.com.</p>',
+        '<p style="margin-top:16px;"><a class="btn btn-warning btn-lg" href="https://www.tumbgames.com/" rel="noopener">' +
+            'Go to tumbgames.com <span class="glyphicon glyphicon-chevron-right"></span></a></p>',
+        '</div>'
+    ].join("\n");
+}
+
 function footer(rel) {
     return [
         '<footer>',
@@ -307,6 +320,7 @@ function gamePage(item, all, index) {
     var body = [
         nav("../../"),
         '<div class="container">',
+        deprecationBanner(),
         '<ol class="breadcrumb" style="margin-top:20px;">',
         '<li><a href="../../">Games</a></li>',
         '<li class="active">' + esc(name) + '</li>',
@@ -410,6 +424,7 @@ function indexPage(games) {
     var body = [
         nav(""),
         '<div class="container">',
+        deprecationBanner(),
         '<div class="row"><div class="col-lg-12">',
         '<h1 class="page-header">Free Mobile Games by ' + SITE_NAME + ' <small>Android &amp; iOS</small></h1>',
         '<p class="lead">' + esc(desc) + '</p>',
